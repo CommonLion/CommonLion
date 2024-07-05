@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="transform: scaleY(-1);">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8ecdef&text=&animation=twinkling&height=200" alt="header" />
+</div>

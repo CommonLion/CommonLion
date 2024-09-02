@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <!-- ## Tile -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=45&duration=3500&pause=3&color=3BC93DFF&background=0804F3&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+ueongti's+GitHub!🍵)](https://git.io/typing-svg)
 
-## Statistics
+## :chart_with_upwards_trend: Statistics
 <div>
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndud0824"/>
-  
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndud0824"/>&nbsp
+  <img alt="hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCommonLion%2Fhit-counter&count_bg=%233D4EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=CommonLion&show_icons=true&theme=merko" width = "49%" height="130%" />
@@ -28,20 +28,14 @@ Here are some ideas to get you started:
   <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommonLion&layout=compact&theme=merko"/>
 </div>
 
-<div>
+<!--
   [![GitHub Streak](https://streak-stats.demolab.com?user=CommonLion&theme=prussian)](https://git.io/streak-stats) 
-</div>
+-->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-[![CommonLion's github activity graph](https://activity-graph.herokuapp.com/graph?username=CommonLion&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+## :battery: skills
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
-
-
 
 <!-- 리눅스 보안 스택 -->
 <div align="center">
@@ -98,7 +92,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-<br>
+
 
 <!-- 개발 도구 -->
 
@@ -136,7 +130,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tndud0824@gmail.com)](mailto:tndud0824@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tndud4327@naver.com)](mailto:tndud4327@naver.com)
 

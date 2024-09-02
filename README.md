@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ## Statistics
 <div>
   <img alt="algorithms" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndud0824"/>
+  
 </div>
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=CommonLion&show_icons=true&theme=merko" width = "49%" height="130%" />
@@ -27,8 +28,11 @@ Here are some ideas to get you started:
   <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommonLion&layout=compact&theme=merko"/>
 </div>
 
+<div>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=CommonLion&theme=prussian)](https://git.io/streak-stats) 
+</div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CommonLion&theme=prussian)](https://git.io/streak-stats) 
 
 [![CommonLion's github activity graph](https://activity-graph.herokuapp.com/graph?username=CommonLion&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)

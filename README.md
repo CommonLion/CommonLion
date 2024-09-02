@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<!-- 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=CommonLion&theme=prussian)](https://git.io/streak-stats) 
--->
+
 [![CommonLion's github activity graph](https://activity-graph.herokuapp.com/graph?username=CommonLion&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)

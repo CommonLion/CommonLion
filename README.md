@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 </br></br></br></br></br></br></br></br>
 
-## :battery: skills
+## :battery: Skills
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>

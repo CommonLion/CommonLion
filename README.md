@@ -21,18 +21,19 @@ Here are some ideas to get you started:
   <img alt="algorithms" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndud0824"/>&nbsp
   <img alt="hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCommonLion%2Fhit-counter&count_bg=%233D4EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
-<div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=CommonLion&show_icons=true&theme=merko" width = "49%" height="130%" />
-</div>
-<div>
-  <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommonLion&layout=compact&theme=merko"/>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 49%; text-align: left;">
+    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=CommonLion&show_icons=true&theme=merko" style="width: 45%; height: auto;" />
+  </div>
+  <div style="width: 49%; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommonLion&layout=compact&theme=merko" style="width: 45%; height: auto;" />
+  </div>
 </div>
 
 <!--
   [![GitHub Streak](https://streak-stats.demolab.com?user=CommonLion&theme=prussian)](https://git.io/streak-stats) 
 -->
-
-</br></br></br></br></br></br></br></br>
 
 ## :battery: Skills
 
